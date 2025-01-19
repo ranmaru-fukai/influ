@@ -1,0 +1,26 @@
+{
+  "name": "ranmarufukai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "reactify": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranmarufukai/ranmaru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranmarufukai/ranmaru/issues"
+  },
+  "homepage": "https://github.com/ranmarufukai/ranmaru#readme"
+}
